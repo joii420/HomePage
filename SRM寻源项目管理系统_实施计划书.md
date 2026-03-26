@@ -1,5 +1,5 @@
 # 实施计划书：SRM 寻源项目管理系统
-
+aaasss
 **分支**：`001-srm-sourcing-fullspec` | **日期**：2026-03-20 | **规格文档**：[spec.md](./spec.md)
 
 ## 概述
