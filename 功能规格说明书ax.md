@@ -1,5 +1,5 @@
 # Feature Specification: SRM 寻源项目管理系统
-123
+123456
 **功能分支**: `001-srm-sourcing-fullspec`
 **创建日期**: 2026-03-19
 **状态**: 草稿
